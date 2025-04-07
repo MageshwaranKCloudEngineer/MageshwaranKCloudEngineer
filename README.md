@@ -3,7 +3,6 @@
 
 
 ## 🌐 Socials:
-## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mgh.here)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mageshwaran-kumaresan)
 [![Credly](https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/mageshwaran-k.bc219d3f)
@@ -25,5 +24,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=MageshwaranK&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --> and make it more visual it should have 
